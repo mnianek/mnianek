@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">I am developing in the field of Artificial Intelligence and Cyber Security . In my free time I write programs in C++.</h3>
-<img align="right" alt="Coding" width="400" height="400" src="https://www.iglobesolution.com/images/website-design.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://www.iglobesolution.com/images/website-design.gif">
 
 - 🔭 I’m currently working on [2D game in Unity](https://github.com/mnianek/gra)
 
