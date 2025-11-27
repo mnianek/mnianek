@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jan</h1>
+<h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">I am the owner of a sole proprietorship and create custom websites.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://www.iglobesolution.com/images/website-design.gif">
 
