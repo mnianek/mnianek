@@ -1,4 +1,4 @@
-<img width="360" height="165" alt="image" src="https://github.com/user-attachments/assets/5e807e9b-c4f6-41fb-9275-86412bad5512" /><h1 align="center">Hi 👋, I'm Jan</h1>
+h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">I am the owner of a sole proprietorship and create custom websites.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://www.iglobesolution.com/images/website-design.gif">
 
